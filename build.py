@@ -21,7 +21,7 @@ family.set_styles()
 
 builder = kit.Builder(family)
 
-builder.fontrevision = '0.100'
+builder.fontrevision = '0.200'
 
 builder.set_options([
 
