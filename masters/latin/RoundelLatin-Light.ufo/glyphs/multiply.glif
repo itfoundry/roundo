@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="multiply" format="1">
+  <advance width="497"/>
+  <unicode hex="00D7"/>
+  <outline>
+    <contour>
+      <point x="123" y="491" type="line"/>
+      <point x="102" y="470" type="line"/>
+      <point x="375" y="197" type="line"/>
+      <point x="396" y="218" type="line"/>
+    </contour>
+    <contour>
+      <point x="121" y="197" type="line"/>
+      <point x="396" y="472" type="line"/>
+      <point x="377" y="491" type="line"/>
+      <point x="102" y="216" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

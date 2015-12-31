@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessj" format="1">
+  <advance width="207"/>
+  <outline>
+    <contour>
+      <point x="39" y="-168" type="line"/>
+      <point x="82" y="-145"/>
+      <point x="118" y="-107"/>
+      <point x="118" y="-38" type="curve"/>
+      <point x="118" y="530" type="line"/>
+      <point x="88" y="530" type="line"/>
+      <point x="88" y="-40" type="line"/>
+      <point x="88" y="-89"/>
+      <point x="65" y="-122"/>
+      <point x="21" y="-143" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

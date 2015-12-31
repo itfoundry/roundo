@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gcommaaccent" format="1">
+  <advance width="597"/>
+  <unicode hex="0123"/>
+  <outline>
+    <component base="g"/>
+    <component base="commaaccent" xScale="-1.0" yScale="-1.0" xOffset="448" yOffset="564"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

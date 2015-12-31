@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotesingle" format="1">
+  <advance width="226"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="186" y="688" type="line"/>
+      <point x="40" y="688" type="line"/>
+      <point x="52" y="454" type="line"/>
+      <point x="170" y="454" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+    </dict>
+  </lib>
+</glyph>

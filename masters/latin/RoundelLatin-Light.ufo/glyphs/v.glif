@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="1">
+  <advance width="513"/>
+  <unicode hex="0076"/>
+  <outline>
+    <contour>
+      <point x="240" y="0" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="503" y="530" type="line"/>
+      <point x="470" y="530" type="line"/>
+      <point x="257" y="32" type="line"/>
+      <point x="43" y="530" type="line"/>
+      <point x="10" y="530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>549.0</real>
+                  <key>y</key>
+                  <integer>530</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>463.0</real>
+                  <key>y</key>
+                  <integer>530</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>253.0</real>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>329.0</real>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>v</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>513</integer>
+        </dict>
+      </dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

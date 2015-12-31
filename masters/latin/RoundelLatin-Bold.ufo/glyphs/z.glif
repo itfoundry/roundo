@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z" format="1">
+  <advance width="565"/>
+  <unicode hex="007A"/>
+  <outline>
+    <contour>
+      <point x="530" y="0" type="line"/>
+      <point x="530" y="150" type="line"/>
+      <point x="257" y="150" type="line"/>
+      <point x="510" y="410" type="line"/>
+      <point x="510" y="530" type="line"/>
+      <point x="55" y="530" type="line"/>
+      <point x="55" y="380" type="line"/>
+      <point x="285" y="380" type="line"/>
+      <point x="35" y="120" type="line"/>
+      <point x="35" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="265" type="move" name="center"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

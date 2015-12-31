@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.superior" format="1">
+  <advance width="309"/>
+  <outline>
+    <contour>
+      <point x="209" y="321" type="line" name="*16AC2CBE2"/>
+      <point x="239" y="321" type="line" name="*16AC2CC4A"/>
+      <point x="239" y="641" type="line" name="*16AC2CCB2"/>
+      <point x="213" y="641" type="line" name="*16AC2CD1A"/>
+      <point x="209" y="602" type="line" name="*16AC2CD82"/>
+    </contour>
+    <contour>
+      <point x="54" y="409" type="line" name="*16AC2CDEA"/>
+      <point x="218" y="606" type="line" name="*16AC2CE52"/>
+      <point x="213" y="641" type="line" name="*16AC2CEBA"/>
+      <point x="32" y="422" type="line" name="*16AC2CF22"/>
+    </contour>
+    <contour>
+      <point x="32" y="422" type="line" name="*16AC2CF8A"/>
+      <point x="32" y="422" name="*16AC2CFF2"/>
+      <point x="32" y="394" name="*16AC2D05A"/>
+      <point x="32" y="394" type="curve" name="*16AC2D0C2"/>
+      <point x="290" y="394" type="line" name="*16AC2D12A"/>
+      <point x="290" y="422" type="line" name="*16AC2D192"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+    </dict>
+  </lib>
+</glyph>

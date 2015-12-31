@@ -1,8 +1,8 @@
 #! /usr/bin/env AFDKOPython
 
-import hindkit.family, hindkit.builder
+import hindkit as kit
 
-family = hindkit.family.Family(
+family = kit.Family(
     trademark = 'Roundel',
     script = 'Gurmukhi',
     hide_script_name = True,
@@ -19,9 +19,9 @@ family.set_masters(
 
 family.set_styles()
 
-builder = hindkit.builder.Builder(family)
+builder = kit.Builder(family)
 
-builder.fontrevision = '0.200'
+builder.fontrevision = '0.201'
 
 builder.set_options([
 
@@ -43,7 +43,7 @@ builder.set_options([
 builder.generate_designspace()
 builder.generate_fmndb()
 
-hindkit.builder.import_glyphs(
+builder.import_glyphs(
     from_masters = [
         'masters/latin/RoundelLatin-Light.ufo',
         'masters/latin/RoundelLatin-Bold.ufo',

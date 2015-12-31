@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mu.math" format="1">
+  <advance width="620"/>
+  <outline>
+    <contour>
+      <point x="228" y="-10" type="curve"/>
+      <point x="310" y="-10"/>
+      <point x="378" y="25"/>
+      <point x="420" y="63" type="curve"/>
+      <point x="420" y="0" type="line"/>
+      <point x="570" y="0" type="line"/>
+      <point x="570" y="530" type="line"/>
+      <point x="410" y="530" type="line"/>
+      <point x="410" y="166" type="line"/>
+      <point x="381" y="154"/>
+      <point x="342" y="145"/>
+      <point x="301" y="145" type="curve"/>
+      <point x="233" y="145"/>
+      <point x="210" y="182"/>
+      <point x="210" y="233" type="curve"/>
+      <point x="210" y="530" type="line"/>
+      <point x="50" y="530" type="line"/>
+      <point x="50" y="-158" type="line"/>
+      <point x="220" y="-158" type="line"/>
+      <point x="163" y="-1" type="line"/>
+      <point x="182" y="-7"/>
+      <point x="203" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>288</integer>
+          <key>y</key>
+          <integer>-73</integer>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

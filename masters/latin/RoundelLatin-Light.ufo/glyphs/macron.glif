@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="383"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="64" y="693" type="line"/>
+      <point x="64" y="693"/>
+      <point x="64" y="663"/>
+      <point x="64" y="663" type="curve"/>
+      <point x="319" y="663" type="line"/>
+      <point x="319" y="693" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

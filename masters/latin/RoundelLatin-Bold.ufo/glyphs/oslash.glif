@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="631"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="315" y="-10" type="curve" smooth="yes"/>
+      <point x="152" y="-10"/>
+      <point x="30" y="109"/>
+      <point x="30" y="265" type="curve" smooth="yes"/>
+      <point x="30" y="426"/>
+      <point x="152" y="540"/>
+      <point x="315" y="540" type="curve" smooth="yes"/>
+      <point x="479" y="540"/>
+      <point x="601" y="426"/>
+      <point x="601" y="265" type="curve" smooth="yes"/>
+      <point x="601" y="109"/>
+      <point x="479" y="-10"/>
+    </contour>
+    <contour>
+      <point x="315" y="140" type="curve" smooth="yes"/>
+      <point x="384" y="140"/>
+      <point x="441" y="190"/>
+      <point x="441" y="265" type="curve" smooth="yes"/>
+      <point x="441" y="342"/>
+      <point x="384" y="390"/>
+      <point x="315" y="390" type="curve" smooth="yes"/>
+      <point x="247" y="390"/>
+      <point x="190" y="342"/>
+      <point x="190" y="265" type="curve" smooth="yes"/>
+      <point x="190" y="191"/>
+      <point x="247" y="140"/>
+    </contour>
+    <contour>
+      <point x="660" y="530" type="line"/>
+      <point x="89" y="0" type="line"/>
+      <point x="-29" y="0" type="line"/>
+      <point x="541" y="530" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>30</integer>
+          <key>y</key>
+          <integer>224</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>601</integer>
+          <key>y</key>
+          <integer>233</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>603</integer>
+                  <key>y</key>
+                  <integer>587</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>658</integer>
+                  <key>y</key>
+                  <integer>528</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>28</integer>
+                  <key>y</key>
+                  <integer>-57</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>-27</integer>
+                  <key>y</key>
+                  <integer>2</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>oslash</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>631</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

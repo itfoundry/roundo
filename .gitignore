@@ -2,3 +2,5 @@
 *.ufo
 *(Autosaved).glyphs
 /temp/
+
+!/masters/latin/*.ufo

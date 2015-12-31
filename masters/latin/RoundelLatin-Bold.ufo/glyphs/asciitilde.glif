@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciitilde" format="1">
+  <advance width="521"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="30" y="251" type="line"/>
+      <point x="56" y="297"/>
+      <point x="88" y="318"/>
+      <point x="130" y="318" type="curve" smooth="yes"/>
+      <point x="220" y="318"/>
+      <point x="285" y="226"/>
+      <point x="375" y="226" type="curve" smooth="yes"/>
+      <point x="421" y="226"/>
+      <point x="459" y="244"/>
+      <point x="491" y="286" type="curve"/>
+      <point x="491" y="431" type="line"/>
+      <point x="457" y="386"/>
+      <point x="432" y="371"/>
+      <point x="393" y="371" type="curve" smooth="yes"/>
+      <point x="303" y="371"/>
+      <point x="242" y="463"/>
+      <point x="149" y="463" type="curve"/>
+      <point x="101" y="463"/>
+      <point x="61" y="439"/>
+      <point x="30" y="396" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <integer>40</integer>
+          <key>y</key>
+          <integer>209</integer>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblright" format="1">
+  <advance width="260"/>
+  <unicode hex="201D"/>
+  <outline>
+    <contour>
+      <point x="117" y="688" type="line"/>
+      <point x="78" y="688" type="line"/>
+      <point x="24" y="509" type="line"/>
+      <point x="46" y="509" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="688" type="line"/>
+      <point x="197" y="688" type="line"/>
+      <point x="143" y="509" type="line"/>
+      <point x="165" y="509" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+    </dict>
+  </lib>
+</glyph>

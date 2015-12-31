@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threesuperior" format="1">
+  <advance width="309"/>
+  <unicode hex="00B3"/>
+  <outline>
+    <contour>
+      <point x="151" y="316" type="curve" smooth="yes" name="*16ABCF76A"/>
+      <point x="224" y="316" name="*16ABCF7D2"/>
+      <point x="264" y="366" name="*16ABCF83A"/>
+      <point x="264" y="419" type="curve" smooth="yes" name="*16ABCF8A2"/>
+      <point x="264" y="468"/>
+      <point x="227" y="511"/>
+      <point x="160" y="511" type="curve" smooth="yes"/>
+      <point x="139" y="511" type="line"/>
+      <point x="254" y="616" type="line" name="*168BAF0C2"/>
+      <point x="254" y="641" type="line" name="*168BAEF8A"/>
+      <point x="63" y="641" type="line" name="*168BAED1A"/>
+      <point x="63" y="614" type="line" name="*168BAEE52"/>
+      <point x="216" y="614" type="line" name="*168BAF12A"/>
+      <point x="101" y="506" type="line" name="*16ABCFA42"/>
+      <point x="101" y="487" type="line" name="*16ABCFAAA"/>
+      <point x="148" y="487" type="line" name="*168BAF192"/>
+      <point x="206" y="487" name="*168BAF1FA"/>
+      <point x="234" y="459" name="*168BAF262"/>
+      <point x="234" y="419" type="curve" smooth="yes" name="*168BAF2CA"/>
+      <point x="234" y="380" name="*168BAF332"/>
+      <point x="205" y="344" name="*168BAF39A"/>
+      <point x="152" y="344" type="curve" smooth="yes" name="*168BAF402"/>
+      <point x="103" y="344"/>
+      <point x="70" y="363"/>
+      <point x="49" y="380" type="curve"/>
+      <point x="49" y="344" type="line"/>
+      <point x="69" y="332"/>
+      <point x="103" y="316"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+    </dict>
+  </lib>
+</glyph>

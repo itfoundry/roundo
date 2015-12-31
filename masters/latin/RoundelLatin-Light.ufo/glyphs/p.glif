@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p" format="1">
+  <advance width="597"/>
+  <unicode hex="0070"/>
+  <outline>
+    <contour>
+      <point x="99" y="27" type="line"/>
+      <point x="146" y="9"/>
+      <point x="193" y="-10"/>
+      <point x="269" y="-10" type="curve"/>
+      <point x="427" y="-10"/>
+      <point x="538" y="96"/>
+      <point x="538" y="280" type="curve" smooth="yes"/>
+      <point x="538" y="441"/>
+      <point x="447" y="540"/>
+      <point x="307" y="540" type="curve"/>
+      <point x="212" y="540"/>
+      <point x="137" y="487"/>
+      <point x="109" y="457" type="curve"/>
+      <point x="109" y="426" type="line"/>
+      <point x="141" y="459"/>
+      <point x="212" y="512"/>
+      <point x="307" y="512" type="curve"/>
+      <point x="431" y="512"/>
+      <point x="508" y="421"/>
+      <point x="508" y="280" type="curve" smooth="yes"/>
+      <point x="508" y="114"/>
+      <point x="414" y="18"/>
+      <point x="269" y="18" type="curve"/>
+      <point x="197" y="18"/>
+      <point x="154" y="36"/>
+      <point x="109" y="53" type="curve"/>
+    </contour>
+    <contour>
+      <point x="119" y="442" type="line"/>
+      <point x="117" y="446" type="line"/>
+      <point x="117" y="530" type="line"/>
+      <point x="89" y="530" type="line"/>
+      <point x="89" y="-158" type="line"/>
+      <point x="119" y="-158" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>95</integer>
+          <key>y</key>
+          <integer>-220</integer>
+        </dict>
+        <dict>
+          <key>angle</key>
+          <integer>0</integer>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>183</integer>
+          <key>y</key>
+          <integer>-220</integer>
+        </dict>
+      </array>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

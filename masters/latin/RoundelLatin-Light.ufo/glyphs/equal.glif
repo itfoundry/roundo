@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="equal" format="1">
+  <advance width="499"/>
+  <unicode hex="003D"/>
+  <outline>
+    <contour>
+      <point x="69" y="401" type="line"/>
+      <point x="431" y="401" type="line"/>
+      <point x="431" y="429" type="line"/>
+      <point x="69" y="429" type="line"/>
+    </contour>
+    <contour>
+      <point x="69" y="259" type="line"/>
+      <point x="431" y="259" type="line"/>
+      <point x="431" y="287" type="line"/>
+      <point x="69" y="287" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

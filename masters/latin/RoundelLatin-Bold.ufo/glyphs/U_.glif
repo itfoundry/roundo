@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="U" format="1">
+  <advance width="716"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="661" y="688" type="line"/>
+      <point x="481" y="688" type="line"/>
+      <point x="481" y="282" type="line"/>
+      <point x="481" y="198"/>
+      <point x="440" y="160"/>
+      <point x="358" y="160" type="curve"/>
+      <point x="276" y="160"/>
+      <point x="235" y="198"/>
+      <point x="235" y="282" type="curve"/>
+      <point x="235" y="688" type="line"/>
+      <point x="55" y="688" type="line"/>
+      <point x="55" y="285" type="line"/>
+      <point x="55" y="108"/>
+      <point x="145" y="-10"/>
+      <point x="358" y="-10" type="curve"/>
+      <point x="571" y="-10"/>
+      <point x="661" y="108"/>
+      <point x="661" y="285" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>348</integer>
+          <key>y</key>
+          <integer>213</integer>
+        </dict>
+      </array>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>bottom</key>
+        <dict>
+          <key>name</key>
+          <string>origin</string>
+          <key>type</key>
+          <string>glyphMetric</string>
+        </dict>
+        <key>top</key>
+        <dict>
+          <key>name</key>
+          <string>capHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

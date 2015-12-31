@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="693"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="211" y="641" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="344" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="271" type="line"/>
+      <point x="44" y="271"/>
+      <point x="20" y="156"/>
+      <point x="20" y="156" type="curve"/>
+      <point x="605" y="156" type="line"/>
+      <point x="628" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="378" type="curve"/>
+      <point x="650" y="378" type="line"/>
+      <point x="673" y="493" type="line"/>
+      <point x="89" y="493" type="line"/>
+      <point x="89" y="493"/>
+      <point x="66" y="378"/>
+    </contour>
+    <contour>
+      <point x="328" y="0" type="line"/>
+      <point x="461" y="0" type="line"/>
+      <point x="591" y="641" type="line"/>
+      <point x="458" y="641" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+    </dict>
+  </lib>
+</glyph>

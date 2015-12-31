@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide" format="1">
+  <advance width="521"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="30" y="273" type="line"/>
+      <point x="491" y="273" type="line"/>
+      <point x="491" y="418" type="line"/>
+      <point x="30" y="418" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="84"/>
+      <point x="205" y="40"/>
+      <point x="260" y="40" type="curve" smooth="yes"/>
+      <point x="315" y="40"/>
+      <point x="360" y="84"/>
+      <point x="360" y="139" type="curve" smooth="yes"/>
+      <point x="360" y="194"/>
+      <point x="315" y="239"/>
+      <point x="260" y="239" type="curve" smooth="yes"/>
+      <point x="205" y="239"/>
+      <point x="161" y="194"/>
+      <point x="161" y="139" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="161" y="494"/>
+      <point x="205" y="450"/>
+      <point x="260" y="450" type="curve" smooth="yes"/>
+      <point x="315" y="450"/>
+      <point x="360" y="494"/>
+      <point x="360" y="549" type="curve" smooth="yes"/>
+      <point x="360" y="604"/>
+      <point x="315" y="649"/>
+      <point x="260" y="649" type="curve" smooth="yes"/>
+      <point x="205" y="649"/>
+      <point x="161" y="604"/>
+      <point x="161" y="549" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.superior" format="1">
+  <advance width="309"/>
+  <outline>
+    <contour>
+      <point x="154" y="316" type="curve" smooth="yes" name="*168AE9A42"/>
+      <point x="227" y="316" name="*168AE9AAA"/>
+      <point x="280" y="375" name="*168AE9B12"/>
+      <point x="280" y="481" type="curve" smooth="yes" name="*168AE9B7A"/>
+      <point x="280" y="586" name="*168AE9BE2"/>
+      <point x="227" y="647" name="*168AE9C4A"/>
+      <point x="154" y="647" type="curve" smooth="yes" name="*168AE9CB2"/>
+      <point x="81" y="647" name="*168AE9D1A"/>
+      <point x="28" y="586" name="*168AE9D82"/>
+      <point x="28" y="481" type="curve" smooth="yes" name="*168AE9DEA"/>
+      <point x="28" y="375" name="*168AE9972"/>
+      <point x="81" y="316" name="*168AE99DA"/>
+    </contour>
+    <contour>
+      <point x="154" y="342" type="curve" smooth="yes" name="*168AEA192"/>
+      <point x="98" y="342" name="*168AEA1FA"/>
+      <point x="59" y="390" name="*168AEA262"/>
+      <point x="59" y="481" type="curve" smooth="yes" name="*168AEA2CA"/>
+      <point x="59" y="572" name="*168AE9E52"/>
+      <point x="98" y="619" name="*168AE9EBA"/>
+      <point x="154" y="619" type="curve" smooth="yes" name="*168AE9F22"/>
+      <point x="210" y="619" name="*168AE9F8A"/>
+      <point x="250" y="572" name="*168AE9FF2"/>
+      <point x="250" y="481" type="curve" smooth="yes" name="*168AEA05A"/>
+      <point x="250" y="390" name="*168AEA0C2"/>
+      <point x="210" y="342" name="*168AEA12A"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcommaaccent.alt" format="1">
+  <advance width="395"/>
+  <outline>
+    <contour>
+      <point x="356" y="24" type="curve"/>
+      <point x="356" y="56" type="line"/>
+      <point x="330" y="36"/>
+      <point x="293" y="19"/>
+      <point x="248" y="19" type="curve"/>
+      <point x="180" y="19"/>
+      <point x="142" y="53"/>
+      <point x="142" y="128" type="curve"/>
+      <point x="142" y="502" type="line"/>
+      <point x="349" y="502" type="line"/>
+      <point x="349" y="530" type="line"/>
+      <point x="142" y="530" type="line"/>
+      <point x="142" y="630" type="line"/>
+      <point x="112" y="620" type="line"/>
+      <point x="112" y="530" type="line"/>
+      <point x="29" y="530" type="line"/>
+      <point x="29" y="502" type="line"/>
+      <point x="112" y="502" type="line"/>
+      <point x="112" y="130" type="line"/>
+      <point x="112" y="16"/>
+      <point x="183" y="-10"/>
+      <point x="247" y="-10" type="curve"/>
+      <point x="299" y="-10"/>
+      <point x="336" y="8"/>
+    </contour>
+    <component base="commaaccent" xOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onesuperior" format="1">
+  <advance width="309"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="172" y="321" type="line" name="*168B9EBE2"/>
+      <point x="172" y="641" type="line" name="*168B9EC4A"/>
+      <point x="99" y="641" type="line" name="*168B9EB12"/>
+      <point x="87" y="613" type="line" name="*168B9E9DA"/>
+      <point x="142" y="613" type="line"/>
+      <point x="142" y="321" type="line" name="*168B9EB7A"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+    </dict>
+  </lib>
+</glyph>

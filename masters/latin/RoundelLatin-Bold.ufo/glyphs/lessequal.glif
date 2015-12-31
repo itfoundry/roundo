@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="1">
+  <advance width="521"/>
+  <unicode hex="2264"/>
+  <outline>
+    <contour>
+      <point x="30" y="44" type="line"/>
+      <point x="491" y="44" type="line"/>
+      <point x="491" y="189" type="line"/>
+      <point x="30" y="189" type="line"/>
+    </contour>
+    <contour>
+      <point x="491" y="324" type="line"/>
+      <point x="190" y="410" type="line"/>
+      <point x="190" y="403" type="line"/>
+      <point x="491" y="489" type="line"/>
+      <point x="491" y="645" type="line"/>
+      <point x="30" y="478" type="line"/>
+      <point x="30" y="336" type="line"/>
+      <point x="491" y="168" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+    </dict>
+  </lib>
+</glyph>

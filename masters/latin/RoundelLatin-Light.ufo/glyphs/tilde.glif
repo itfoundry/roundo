@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde" format="1">
+  <advance width="391"/>
+  <unicode hex="02DC"/>
+  <outline>
+    <contour>
+      <point x="262" y="634" type="curve" smooth="yes"/>
+      <point x="287" y="634"/>
+      <point x="309" y="646"/>
+      <point x="327" y="672" type="curve"/>
+      <point x="327" y="715" type="line"/>
+      <point x="314" y="684"/>
+      <point x="293" y="664"/>
+      <point x="264" y="664" type="curve" smooth="yes"/>
+      <point x="214" y="664"/>
+      <point x="190" y="722"/>
+      <point x="131" y="722" type="curve" smooth="yes"/>
+      <point x="105" y="722"/>
+      <point x="83" y="709"/>
+      <point x="64" y="682" type="curve"/>
+      <point x="64" y="641" type="line"/>
+      <point x="79" y="672"/>
+      <point x="100" y="692"/>
+      <point x="127" y="692" type="curve" smooth="yes"/>
+      <point x="177" y="692"/>
+      <point x="203" y="634"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

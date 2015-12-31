@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="393"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="-11" y="-20" type="line"/>
+      <point x="-11" y="-20"/>
+      <point x="-11" y="-50"/>
+      <point x="-11" y="-50" type="curve"/>
+      <point x="404" y="-50" type="line"/>
+      <point x="404" y="-20" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+    </dict>
+  </lib>
+</glyph>

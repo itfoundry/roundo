@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="minus" format="1">
+  <advance width="499"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="69" y="330" type="line"/>
+      <point x="431" y="330" type="line"/>
+      <point x="431" y="358" type="line"/>
+      <point x="69" y="358" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

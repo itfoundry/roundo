@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="1">
+  <advance width="314"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="157" y="590" type="curve" smooth="yes"/>
+      <point x="229" y="590"/>
+      <point x="284" y="645"/>
+      <point x="284" y="713" type="curve" smooth="yes"/>
+      <point x="284" y="781"/>
+      <point x="229" y="836"/>
+      <point x="157" y="836" type="curve" smooth="yes"/>
+      <point x="85" y="836"/>
+      <point x="30" y="781"/>
+      <point x="30" y="713" type="curve" smooth="yes"/>
+      <point x="30" y="645"/>
+      <point x="85" y="590"/>
+    </contour>
+    <contour>
+      <point x="158" y="669" type="curve" smooth="yes"/>
+      <point x="135" y="669"/>
+      <point x="116" y="688"/>
+      <point x="116" y="713" type="curve" smooth="yes"/>
+      <point x="116" y="738"/>
+      <point x="135" y="757"/>
+      <point x="158" y="757" type="curve" smooth="yes"/>
+      <point x="181" y="757"/>
+      <point x="200" y="738"/>
+      <point x="200" y="713" type="curve" smooth="yes"/>
+      <point x="200" y="688"/>
+      <point x="181" y="669"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typesupply.AccentFactory.yCoordinates</key>
+      <dict>
+        <key>below</key>
+        <dict>
+          <key>name</key>
+          <string>xHeight</string>
+          <key>type</key>
+          <string>fontInfo</string>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

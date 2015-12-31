@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="442"/>
+  <unicode hex="0165"/>
+  <outline>
+    <component base="t"/>
+    <component base="commaaccent" xOffset="262" yOffset="810"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typesupply.AccentFactory.compileType</key>
+      <string>manual</string>
+    </dict>
+  </lib>
+</glyph>
