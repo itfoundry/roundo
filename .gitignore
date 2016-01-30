@@ -1,6 +1,6 @@
-*.pyc
 *.ufo
 *(Autosaved).glyphs
-/temp/
+
+temp/
 
 !/masters/latin/*.ufo
