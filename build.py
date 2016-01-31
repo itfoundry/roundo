@@ -1,48 +1,39 @@
 #! /usr/bin/env AFDKOPython
-
+# encoding: UTF-8
+from __future__ import division, absolute_import, print_function, unicode_literals
 import hindkit as kit
 
 family = kit.Family(
+    client = 'Google Fonts',
     trademark = 'Roundel',
     script = 'Gurmukhi',
     hide_script_name = True,
 )
-
-family.set_masters(
-    modules = [
-        # 'kerning',
-        # 'mark_positioning',
-        # 'mark_to_mark_positioning',
-        # 'devanagari_matra_i_variants',
+family.set_styles(
+    style_scheme = [
+        ('Light',       0, 300),
+        ('Regular',     9, 400),
+        ('Medium',     26, 500),
+        ('SemiBold',   49, 600),
+        ('Bold',       76, 700),
+        ('ExtraBold', 100, 800),
     ],
 )
 
-family.set_styles()
-
-builder = kit.Builder(family)
-
-builder.fontrevision = '0.201'
-
-builder.set_options([
-
-    'prepare_styles',   # stage i
-    'prepare_features', # stage ii
-    'compile',          # stage iii
-
-    'makeinstances', #!
-    'checkoutlines', #!
-    # 'autohint',      #!
-
-    'do_style_linking',
-    'use_os_2_version_4',
-    'prefer_typo_metrics',
-    'is_width_weight_slope_only',
-
-])
-
-builder.generate_designspace()
-builder.generate_fmndb()
-
+builder = kit.Builder(
+    family,
+    fontrevision = '0.201',
+    vertical_metrics = {
+        'Ascender': 750,
+        'Descender': -250,
+        'LineGap': 200,
+    },
+    options = {
+        'prep_mark_positioning': True,
+        'override_GDEF': True,
+        'do_style_linking': True,
+    },
+)
 builder.import_glyphs(
     from_masters = [
         'masters/latin/RoundelLatin-Light.ufo',
@@ -59,5 +50,4 @@ builder.import_glyphs(
     excluding_names = 'space CR NULL'.split(),
     deriving_names = 'CR NULL'.split(),
 )
-
 builder.build()
