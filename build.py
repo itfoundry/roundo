@@ -5,49 +5,52 @@ import hindkit as kit
 
 family = kit.Family(
     client = 'Google Fonts',
-    trademark = 'Roundel',
     script = 'Gurmukhi',
-    hide_script_name = True,
+    trademark = 'Roundel',
+    designers = 'Namrata Goyal (Gurmukhi); Shiva Nallaperumal (Latin)',
 )
+family.set_masters()
 family.set_styles(
     style_scheme = [
-        ('Light',       0, 300),
-        ('Regular',     9, 400),
-        ('Medium',     26, 500),
-        ('SemiBold',   49, 600),
-        ('Bold',       76, 700),
-        ('ExtraBold', 100, 800),
+        ('ExtraLight', 0, 250),
+        ('Light',      9, 300),
+        ('Regular',   26, 400),
+        ('Medium',    49, 500),
+        ('SemiBold',  76, 600),
+        ('Bold',     100, 700),
     ],
 )
 
 builder = kit.Builder(
     family,
-    fontrevision = '0.201',
+    fontrevision = '0.900',
     vertical_metrics = {
         'Ascender': 750,
         'Descender': -250,
         'LineGap': 200,
     },
     options = {
-        'prep_mark_positioning': True,
+        # 'prep_mark_positioning': True,
         'override_GDEF': True,
         'do_style_linking': True,
     },
 )
-builder.import_glyphs(
-    from_masters = [
-        'masters/latin/RoundelLatin-Light.ufo',
-        'masters/latin/RoundelLatin-Bold.ufo',
+
+kit.tools.import_glyphs(
+    source_paths = [
+        'masters/latin/Roundel Latin-Light.ufo',
+        'masters/latin/Roundel Latin-Bold.ufo',
     ],
-    to_masters = [
+    target_paths = [
         'masters/gurmukhi/Roundel Gurmukhi-Light.ufo',
         'masters/gurmukhi/Roundel Gurmukhi-Bold.ufo',
     ],
-    save_to_masters = [
+    save_as_paths = [
         'masters/Roundel-Light.ufo',
         'masters/Roundel-Bold.ufo',
     ],
     excluding_names = 'space CR NULL'.split(),
     deriving_names = 'CR NULL'.split(),
 )
+
 builder.build()
