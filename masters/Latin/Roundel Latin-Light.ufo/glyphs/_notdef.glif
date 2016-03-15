@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name=".notdef" format="1">
+  <advance width="646"/>
+  <outline>
+    <contour>
+      <point x="527" y="0" type="line"/>
+      <point x="527" y="641" type="line"/>
+      <point x="119" y="641" type="line"/>
+      <point x="119" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="609" type="line"/>
+      <point x="495" y="609" type="line"/>
+      <point x="495" y="32" type="line"/>
+      <point x="151" y="32" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:13 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="1">
-  <advance width="660.0"/>
+  <advance width="660"/>
   <unicode hex="0052"/>
   <outline>
     <contour>
@@ -41,6 +41,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Experiment</key>
@@ -80,7 +82,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>457.75536480686696</real>
+                  <real>457.755</real>
                   <key>y</key>
                   <integer>363</integer>
                 </dict>
@@ -88,9 +90,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>551.0</real>
+                  <integer>551</integer>
                   <key>y</key>
-                  <real>420.0</real>
+                  <integer>420</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -106,15 +108,15 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>551.0</real>
+                  <integer>551</integer>
                   <key>y</key>
-                  <real>668.8415841584158</real>
+                  <real>668.842</real>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>458.66952789699576</real>
+                  <real>458.67</real>
                   <key>y</key>
                   <integer>722</integer>
                 </dict>
@@ -162,7 +164,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>479.4528301886792</real>
+                  <real>479.453</real>
                   <key>y</key>
                   <integer>750</integer>
                 </dict>
@@ -170,9 +172,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>583.0</real>
+                  <integer>583</integer>
                   <key>y</key>
-                  <real>685.1739130434783</real>
+                  <real>685.174</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -188,15 +190,15 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>583.0</real>
+                  <integer>583</integer>
                   <key>y</key>
-                  <real>404.0</real>
+                  <integer>404</integer>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>479.4528301886792</real>
+                  <real>479.453</real>
                   <key>y</key>
                   <integer>335</integer>
                 </dict>
@@ -232,7 +234,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>660.0</real>
+          <integer>660</integer>
         </dict>
         <key>background</key>
         <dict>
@@ -545,7 +547,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>660.0</real>
+          <integer>660</integer>
         </dict>
       </dict>
       <key>com.typesupply.AccentFactory.yCoordinates</key>

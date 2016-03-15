@@ -31,15 +31,15 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>1</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
           <key>angle</key>
           <integer>90</integer>
           <key>isGlobal</key>
-          <integer>0</integer>
-          <key>magnetic</key>
-          <integer>5</integer>
+          <false/>
           <key>x</key>
           <integer>288</integer>
           <key>y</key>

@@ -4,34 +4,34 @@
   <outline>
     <contour>
       <point x="190" y="738" type="curve" smooth="yes"/>
-      <point x="283.0" y="738.0"/>
-      <point x="351.0" y="796.987951807"/>
+      <point x="283" y="738"/>
+      <point x="351" y="797"/>
       <point x="351" y="874" type="curve"/>
       <point x="241" y="874" type="line"/>
-      <point x="241.0" y="851.15625"/>
+      <point x="241" y="851"/>
       <point x="228" y="840"/>
       <point x="190" y="840" type="curve" smooth="yes"/>
       <point x="152" y="840"/>
-      <point x="139.0" y="851.15625"/>
+      <point x="139" y="851"/>
       <point x="139" y="874" type="curve"/>
       <point x="30" y="874" type="line"/>
-      <point x="30.0" y="796.987951807"/>
-      <point x="98.0" y="738.0"/>
+      <point x="30" y="797"/>
+      <point x="98" y="738"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
           <key>angle</key>
           <integer>90</integer>
           <key>isGlobal</key>
-          <integer>0</integer>
-          <key>magnetic</key>
-          <integer>5</integer>
+          <false/>
           <key>x</key>
           <integer>195</integer>
           <key>y</key>
@@ -48,6 +48,8 @@
           <string>fontInfo</string>
         </dict>
       </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

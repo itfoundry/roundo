@@ -8,26 +8,26 @@
       <point x="277" y="321" type="line" name="*16AC4853A"/>
       <point x="277" y="348" type="line" name="*16AC485A2"/>
       <point x="87" y="348" type="line"/>
-      <point x="198" y="462" type="line" smooth="yes" name="*16AC4812A"/>
+      <point x="198" y="462" type="line" name="*16AC4812A" smooth="yes"/>
       <point x="234" y="498" name="*16AC48192"/>
       <point x="261" y="531" name="*16AC481FA"/>
       <point x="261" y="569" type="curve" name="*16AC48262"/>
       <point x="261" y="608" name="*16AC482CA"/>
       <point x="235" y="647" name="*16AC48332"/>
-      <point x="166" y="647" type="curve" smooth="yes" name="*16AC4839A"/>
+      <point x="166" y="647" type="curve" name="*16AC4839A" smooth="yes"/>
       <point x="119" y="647"/>
       <point x="72" y="621"/>
       <point x="53" y="602" type="curve"/>
       <point x="53" y="568" type="line"/>
       <point x="67" y="585"/>
       <point x="120" y="619"/>
-      <point x="165" y="619" type="curve" smooth="yes" name="*16AC47D1A"/>
+      <point x="165" y="619" type="curve" name="*16AC47D1A" smooth="yes"/>
       <point x="218" y="619" name="*16AC47D82"/>
       <point x="231" y="593" name="*16AC47DEA"/>
       <point x="231" y="568" type="curve" name="*16AC47E52"/>
       <point x="231" y="536" name="*16AC47EBA"/>
       <point x="202" y="507" name="*16AC47F22"/>
-      <point x="177" y="480" type="curve" smooth="yes" name="*16AC47F8A"/>
+      <point x="177" y="480" type="curve" name="*16AC47F8A" smooth="yes"/>
       <point x="50" y="345" type="line" name="*16AC47FF2"/>
     </contour>
   </outline>
@@ -35,6 +35,10 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

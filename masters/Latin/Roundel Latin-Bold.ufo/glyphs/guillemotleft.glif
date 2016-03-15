@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotleft" format="1">
-  <advance width="607.0"/>
+  <advance width="607"/>
   <unicode hex="00AB"/>
   <outline>
     <contour>
@@ -22,4 +22,10 @@
       <point x="567" y="58" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
+    </dict>
+  </lib>
 </glyph>

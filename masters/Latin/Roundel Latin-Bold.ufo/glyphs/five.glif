@@ -34,6 +34,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -91,9 +93,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>503.0</real>
+                  <integer>503</integer>
                   <key>y</key>
-                  <real>329.8620689655172</real>
+                  <real>329.862</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -109,9 +111,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>503.0</real>
+                  <integer>503</integer>
                   <key>y</key>
-                  <real>64.05263157894737</real>
+                  <real>64.053</real>
                 </dict>
                 <dict>
                   <key>smooth</key>
@@ -205,9 +207,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>533.0</real>
+                  <integer>533</integer>
                   <key>y</key>
-                  <real>40.28440366972475</real>
+                  <real>40.284</real>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -223,17 +225,17 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>533.0</real>
+                  <integer>533</integer>
                   <key>y</key>
-                  <real>354.13861386138615</real>
+                  <real>354.139</real>
                 </dict>
                 <dict>
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>402.0</real>
+                  <integer>402</integer>
                   <key>y</key>
-                  <real>410.0</real>
+                  <integer>410</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>

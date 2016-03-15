@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng" format="1">
+  <advance width="717"/>
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="657" y="57" type="curve"/>
+      <point x="657" y="688" type="line"/>
+      <point x="487" y="688" type="line"/>
+      <point x="487" y="299" type="line"/>
+      <point x="220" y="688" type="line"/>
+      <point x="50" y="688" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="220" y="394" type="line"/>
+      <point x="497" y="28" type="line"/>
+      <point x="497" y="24" type="line" smooth="yes"/>
+      <point x="497" y="-6"/>
+      <point x="470" y="-23"/>
+      <point x="402" y="-39" type="curve"/>
+      <point x="441" y="-168" type="line"/>
+      <point x="566" y="-156"/>
+      <point x="657" y="-86"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

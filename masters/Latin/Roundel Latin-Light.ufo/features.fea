@@ -1,10 +1,11 @@
-
-feature salt { # my Stylistic Alternates
+feature salt {
+ # my Stylistic Alternates
 		sub t by t.alt;
 		sub tbar by tbar.alt;
 		sub tcommaaccent by tcommaaccent.alt;
 		sub tcaron by tcaron.alt;
-	} salt;
+	
+} salt;
 
 feature liga {
     sub f i by f_i;
@@ -23,3 +24,4 @@ feature liga {
     sub f f k by f_f_k;
     sub f f j by f_f_j;
 } liga;
+

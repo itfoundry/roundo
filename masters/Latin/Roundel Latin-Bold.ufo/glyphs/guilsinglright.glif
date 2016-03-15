@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglright" format="1">
-  <advance width="325.0"/>
+  <advance width="325"/>
   <unicode hex="203A"/>
   <outline>
     <contour>
@@ -13,4 +13,10 @@
       <point x="295" y="333" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
+    </dict>
+  </lib>
 </glyph>

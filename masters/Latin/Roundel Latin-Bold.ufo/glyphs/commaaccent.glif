@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccent" format="1">
   <advance width="245"/>
+  <unicode hex="0326"/>
   <outline>
     <contour>
       <point x="215" y="-51" type="line"/>
@@ -14,6 +15,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
       <key>com.typesupply.AccentFactory.yCoordinates</key>
       <dict>
         <key>above</key>

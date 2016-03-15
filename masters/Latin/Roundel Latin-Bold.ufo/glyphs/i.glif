@@ -26,17 +26,15 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
       <key>com.typemytype.robofont.guides</key>
       <array>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <integer>90</integer>
           <key>isGlobal</key>
           <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
           <key>x</key>
           <integer>215</integer>
           <key>y</key>
@@ -44,13 +42,9 @@
         </dict>
         <dict>
           <key>angle</key>
-          <real>90.0</real>
+          <integer>90</integer>
           <key>isGlobal</key>
           <false/>
-          <key>magnetic</key>
-          <integer>5</integer>
-          <key>name</key>
-          <string></string>
           <key>x</key>
           <integer>224</integer>
           <key>y</key>

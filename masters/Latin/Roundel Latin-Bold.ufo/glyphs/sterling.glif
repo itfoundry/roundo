@@ -13,24 +13,24 @@
       <point x="302" y="322"/>
       <point x="263" y="398"/>
       <point x="263" y="465" type="curve"/>
-      <point x="263.0" y="513.0"/>
-      <point x="292.0625" y="535.0"/>
+      <point x="263" y="513"/>
+      <point x="292" y="535"/>
       <point x="338" y="535" type="curve"/>
-      <point x="417.0" y="535.0"/>
+      <point x="417" y="535"/>
       <point x="499" y="491"/>
       <point x="563" y="444" type="curve"/>
       <point x="563" y="625" type="line"/>
-      <point x="512.808160201" y="656.754021098"/>
-      <point x="425.491525424" y="698.0"/>
+      <point x="513" y="657"/>
+      <point x="425" y="698"/>
       <point x="319" y="698" type="curve"/>
-      <point x="171.923076923" y="698.0"/>
-      <point x="80.0" y="610.0"/>
+      <point x="172" y="698"/>
+      <point x="80" y="610"/>
       <point x="80" y="488" type="curve"/>
-      <point x="80.0" y="382.420634921"/>
-      <point x="140.0" y="297.757936508"/>
+      <point x="80" y="382"/>
+      <point x="140" y="298"/>
       <point x="140" y="237" type="curve"/>
-      <point x="140.0" y="190.581818182"/>
-      <point x="101.200692267" y="151.100346134"/>
+      <point x="140" y="191"/>
+      <point x="101" y="151"/>
       <point x="51" y="126" type="curve"/>
       <point x="51" y="0" type="line"/>
     </contour>
@@ -41,4 +41,10 @@
       <point x="20" y="401" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
+    </dict>
+  </lib>
 </glyph>

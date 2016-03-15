@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="1">
-  <advance width="691.0"/>
+  <advance width="691"/>
   <unicode hex="0052"/>
   <outline>
     <contour>
@@ -13,7 +13,7 @@
       <point x="220" y="242" type="line"/>
       <point x="432" y="242" type="line" smooth="yes"/>
       <point x="562" y="242"/>
-      <point x="664.0" y="321.0"/>
+      <point x="664" y="321"/>
       <point x="664" y="453" type="curve"/>
       <point x="664" y="614"/>
       <point x="553" y="688"/>
@@ -41,6 +41,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -322,7 +324,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>691.0</real>
+          <integer>691</integer>
         </dict>
       </dict>
       <key>com.typesupply.AccentFactory.yCoordinates</key>

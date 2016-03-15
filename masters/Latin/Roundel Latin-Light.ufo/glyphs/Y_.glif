@@ -17,6 +17,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -38,7 +40,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>255.0</real>
+                  <integer>255</integer>
                   <key>y</key>
                   <integer>310</integer>
                 </dict>
@@ -48,7 +50,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>255.0</real>
+                  <integer>255</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -58,7 +60,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>335.0</real>
+                  <integer>335</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -68,7 +70,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>335.0</real>
+                  <integer>335</integer>
                   <key>y</key>
                   <integer>310</integer>
                 </dict>
@@ -83,7 +85,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>266.0</real>
+                  <integer>266</integer>
                   <key>y</key>
                   <integer>265</integer>
                 </dict>
@@ -93,7 +95,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>324.0</real>
+                  <integer>324</integer>
                   <key>y</key>
                   <integer>265</integer>
                 </dict>
@@ -103,7 +105,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>615.0</real>
+                  <integer>615</integer>
                   <key>y</key>
                   <integer>750</integer>
                 </dict>
@@ -113,7 +115,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>525.0</real>
+                  <integer>525</integer>
                   <key>y</key>
                   <integer>750</integer>
                 </dict>
@@ -123,7 +125,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>297.0</real>
+                  <integer>297</integer>
                   <key>y</key>
                   <integer>360</integer>
                 </dict>
@@ -133,7 +135,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>67.0</real>
+                  <integer>67</integer>
                   <key>y</key>
                   <integer>750</integer>
                 </dict>
@@ -143,7 +145,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <real>-25.0</real>
+                  <integer>-25</integer>
                   <key>y</key>
                   <integer>750</integer>
                 </dict>

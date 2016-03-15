@@ -4,10 +4,10 @@
   <unicode hex="00B3"/>
   <outline>
     <contour>
-      <point x="151" y="316" type="curve" smooth="yes" name="*16ABCF76A"/>
+      <point x="151" y="316" type="curve" name="*16ABCF76A" smooth="yes"/>
       <point x="224" y="316" name="*16ABCF7D2"/>
       <point x="264" y="366" name="*16ABCF83A"/>
-      <point x="264" y="419" type="curve" smooth="yes" name="*16ABCF8A2"/>
+      <point x="264" y="419" type="curve" name="*16ABCF8A2" smooth="yes"/>
       <point x="264" y="468"/>
       <point x="227" y="511"/>
       <point x="160" y="511" type="curve" smooth="yes"/>
@@ -22,10 +22,10 @@
       <point x="148" y="487" type="line" name="*168BAF192"/>
       <point x="206" y="487" name="*168BAF1FA"/>
       <point x="234" y="459" name="*168BAF262"/>
-      <point x="234" y="419" type="curve" smooth="yes" name="*168BAF2CA"/>
+      <point x="234" y="419" type="curve" name="*168BAF2CA" smooth="yes"/>
       <point x="234" y="380" name="*168BAF332"/>
       <point x="205" y="344" name="*168BAF39A"/>
-      <point x="152" y="344" type="curve" smooth="yes" name="*168BAF402"/>
+      <point x="152" y="344" type="curve" name="*168BAF402" smooth="yes"/>
       <point x="103" y="344"/>
       <point x="70" y="363"/>
       <point x="49" y="380" type="curve"/>
@@ -38,6 +38,10 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>4</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ITF" format="1">
+  <advance width="1629"/>
+  <outline>
+    <contour>
+      <point x="119" y="0" type="line"/>
+      <point x="317" y="0" type="line"/>
+      <point x="317" y="641" type="line"/>
+      <point x="119" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="358" y="454" type="line"/>
+      <point x="556" y="454" type="line"/>
+      <point x="556" y="641" type="line"/>
+      <point x="358" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="596" y="0" type="line"/>
+      <point x="794" y="0" type="line"/>
+      <point x="794" y="641" type="line"/>
+      <point x="596" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="836" y="454" type="line"/>
+      <point x="1033" y="454" type="line"/>
+      <point x="1033" y="641" type="line"/>
+      <point x="836" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="1074" y="0" type="line"/>
+      <point x="1271" y="0" type="line"/>
+      <point x="1271" y="641" type="line"/>
+      <point x="1074" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="1313" y="454" type="line"/>
+      <point x="1510" y="454" type="line"/>
+      <point x="1510" y="641" type="line"/>
+      <point x="1313" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="1313" y="227" type="line"/>
+      <point x="1510" y="227" type="line"/>
+      <point x="1510" y="413" type="line"/>
+      <point x="1313" y="413" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-03-14 09:27:05 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>
