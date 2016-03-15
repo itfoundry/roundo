@@ -8,6 +8,8 @@ family = kit.Family(
     trademark = 'Roundel',
     script = 'Gurmukhi',
 )
+family.info.openTypeNameDesigner = "Namrata Goyal (Gurmukhi); Shiva Nallaperumal (Latin)"
+
 family.set_masters()
 family.set_styles(
     style_scheme = [
@@ -19,8 +21,6 @@ family.set_styles(
         ('Bold',     100, 700),
     ],
 )
-
-family.info.openTypeNameDesigner = "Namrata Goyal (Gurmukhi); Shiva Nallaperumal (Latin)"
 
 def prepare_master(self, master):
     master.import_glyphs_from(
