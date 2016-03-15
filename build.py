@@ -35,11 +35,12 @@ kit.Builder.prepare_master = prepare_master
 builder = kit.Builder(
     family,
     fontrevision = '1.000',
-    # vertical_metrics = {
-    #     'Ascender': 750,
-    #     'Descender': -250,
-    #     'LineGap': 200,
-    # },
+    vertical_metrics = {
+        'Ascender': 1050,
+        'Descender': -450,
+        'TypoAscender': 800,
+        'TypoDescender': -200,
+    },
     options = {
         'prepare_master': True,
         # 'prep_mark_positioning': True,
