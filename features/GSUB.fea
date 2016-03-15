@@ -51,11 +51,11 @@ feature pstf {
 # Above-base Substitution
 # -----------------------
 
-feature abvs {
-  lookup abvs_matra_bindi;
-  # lookup abvs_matra_oo;
-  lookup abvs_headline_insertion;
-} abvs;
+# feature abvs {
+#   # lookup abvs_matra_bindi;
+#   # lookup abvs_matra_oo;
+#   # lookup abvs_headline_insertion;
+# } abvs;
 
 
 # Below-base Substitution
@@ -67,19 +67,14 @@ feature blws {
 } blws;
 
 
-# -----------
-# POSITIONING
-# -----------
+# -------
+# GENERAL
+# -------
 
-# Above- and Below-base Mark Positioning
-# --------------------------------------
+feature salt {
+  lookup salt;
+} salt;
 
-# include (markclasses.fea);
-#
-# feature abvm {
-#   include (abvm.fea);
-# } abvm;
-#
-# feature blwm {
-#   include (blwm.fea);
-# } blwm;
+feature liga {
+  lookup liga;
+} liga;
