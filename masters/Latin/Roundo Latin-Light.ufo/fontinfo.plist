@@ -9,13 +9,13 @@
 	<key>descender</key>
 	<integer>-158</integer>
 	<key>familyName</key>
-	<string>Roundel Sans</string>
+	<string>Roundo</string>
 	<key>openTypeHeadCreated</key>
 	<string>2016/03/14 17:27:05</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Roundel Sans</string>
+	<string>Roundo</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Bold</string>
+	<string>Light</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -27,11 +27,11 @@
 	<array>
 	</array>
 	<key>styleMapFamilyName</key>
-	<string>Roundel Sans Bold</string>
+	<string>Roundo Light</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Bold</string>
+	<string>Light</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

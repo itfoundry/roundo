@@ -5,7 +5,7 @@ import hindkit as kit
 
 family = kit.Family(
     client = 'Google Fonts',
-    trademark = 'Roundel',
+    trademark = 'Roundo',
     script = 'Gurmukhi',
 )
 family.info.openTypeNameDesigner = "Namrata Goyal (Gurmukhi); Shiva Nallaperumal (Latin)"
